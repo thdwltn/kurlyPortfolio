@@ -1,0 +1,19 @@
+figure{
+  width: 300px;
+  margin: 0 10px;
+  
+}
+figure>div{
+  position: relative;
+}
+figure>div>span{
+  position: absolute;
+  right: 20px; bottom: 20px;
+  font-size: 25px;
+  color: #5f0080;
+  
+}
+
+figure>div>img{
+  width: 100%;
+}

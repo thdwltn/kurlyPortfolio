@@ -1,0 +1,6 @@
+.recentItem>a>img{
+  width: 80px;
+}
+li::marker{
+  color: #fff;
+}

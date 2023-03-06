@@ -1,0 +1,24 @@
+.empty{
+    width: 80%;
+    margin: 0 auto 50px;
+    padding: 20px;
+    box-sizing: border-box;
+    color: #333;
+    border: 2px solid #ddd; 
+    line-height: 30px;
+    
+}
+#wishlist{
+    
+    padding: 20px 0;
+}
+#wishlist>h3{
+    text-align: center;
+    line-height: 50px;
+}
+#wishlist>ul{
+    width: 1000px;
+    margin: 0 auto;
+    display: flex;
+    flex-wrap: wrap;
+}

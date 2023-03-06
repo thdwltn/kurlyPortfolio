@@ -1,0 +1,41 @@
+#productlist{
+  padding: 100px 0;
+}
+
+
+#productlist>form{
+  width:400px;
+  text-align: center;
+  margin: 0 auto;
+  line-height: 35px;
+  border: 1px solid #5f0080;
+  border-radius: 10px;
+}
+#productlist>form>input{
+  width: 80%;
+  border: none;
+  line-height: 35px;
+  outline: none;
+}
+#productlist>form>button{
+  width: 10%;
+  border: none;
+  background-color: #fff;
+  font-size: 25px;
+  color: #5f0080;
+  position: relative;
+}
+#productlist>form>button>svg{
+  position: absolute;
+  left: 25%; bottom: -6px;
+}
+.items{
+  width: 100%;
+  margin: 0 auto;
+  display: flex;
+  justify-content: space-evenly;
+  flex-wrap: wrap;
+}
+#container>p{
+  line-height: 40px;
+}

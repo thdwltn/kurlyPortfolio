@@ -1,0 +1,36 @@
+#side{
+  width: 100px; height: 330px;
+  border: 1px solid #999;
+  position: fixed;
+  right: 20px;
+  bottom: 10px;
+  text-align: center;
+  
+  overflow: hidden;
+}
+#side>p>a{
+  font-size: 25px;
+  color: #999;
+}
+#sideTop>p>img{
+  position: fixed;
+  right: 20px;
+  bottom: 350px;
+  width:100px;
+ 
+}
+
+.sideFixed{
+  position: fixed;
+  top: 20%; 
+}
+
+.recently{
+  list-style: none;
+}
+
+.recently figure{
+  width: 100px;
+ 
+}
+

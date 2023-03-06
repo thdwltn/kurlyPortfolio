@@ -1,0 +1,38 @@
+.SignIn>div{
+    width: 60%;
+    margin: 0 auto;
+}
+
+
+.SignIn h3{
+    text-align: center;
+    margin-bottom: 50px;
+    background-color: #666;
+    color: #fff;
+    line-height: 40px;
+}
+.SignIn>div{
+    width: 100%;
+    margin: 0 auto;
+    text-align: center;
+}
+
+.SignIn>div>ul>li>input{
+    margin-bottom: 10px;
+    width: 230px;
+    line-height: 40px;
+    padding: 0 10px;
+}
+.SignIn p{
+    margin-bottom: 20px;
+}
+.SignIn p>button{
+    width: 150px;
+    line-height: 40px;
+    background-color: #fff;
+    border: 1px solid navy;
+    border-radius: 2px;
+}
+.SignIn p>input{
+    width: 30px;
+}

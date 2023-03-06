@@ -1,0 +1,8 @@
+ul.review>li>a>img{
+  width: 165px; height: 165px;
+  margin: 0 2.5px;
+}
+.reviewlist{
+  display: flex;
+  justify-content: center;
+}
