@@ -1,0 +1,33 @@
+#review{
+  width: 800px;
+  margin: 0 auto;
+  padding: 50px 0;
+}
+.reviewTop>figure{
+  display: flex;
+  justify-content: space-between;
+  width: 400px;
+  margin-bottom: 50px;
+}
+.reviewTop>figure>div>img{
+  width: 400px;
+  margin-right: 50px;
+}
+.reviewTop>figure>figcaption{
+  width: 350px;
+}
+.reviewTop>figure>figcaption>dl{
+  width: 300px
+}
+
+.reviewbottom{
+  width: 800px;
+  margin: 0 auto;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+}
+.reviewbottom>img{
+  width: 250px;
+  padding: 10px 0;
+}
